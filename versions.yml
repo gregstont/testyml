@@ -1,3 +1,4 @@
-csbs-cart-svcs: 0.1-SNAPSHOT
-csbs-acct-svcs: 1.0.1
-csbs-order-svcs: 1.1.2
+csbs-cart-svcs: '5241'
+csbs-acct-svcs: '4791'
+csbs-order-svcs: '4861'
+csbs-svcs: '2141'
